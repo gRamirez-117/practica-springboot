@@ -1,5 +1,5 @@
 server.port=8011
-abc.xyz=Desarrollo Testing remote
+abc.xyz=Desarrollo Testing reload in line
 
 spring.datasource.url=jdbc:postgresql://localhost:5432/im_junior
 spring.datasource.username=postgres
